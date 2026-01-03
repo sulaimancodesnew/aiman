@@ -27,14 +27,14 @@ export default function MessageScreen({ onNext }) {
                     className=" h-auto max-w-xl bg-gradient-to-br from-pink-200 via-pink-100 to-pink-50 rounded-2xl shadow-lg p-4 md:p-6 text-center"
                 >
                     <p className="text-[#301733] text-base md:text-lg leading-relaxed overflow-y-auto max-h-[400px] pr-2">
-                        Happy Birthday, ABC 🎂💖✨
-                        You make the world brighter just by being you 🌸 your smile 😊, your kindness 💫, and the warmth you bring to every heart 💞.
-                        Thank you Meri Dunia mein aany kalie.....
-                        I hope today wraps you in love 🤍, laughter 😄, and beautiful surprises 🎁✨.
-                        You’re truly one of a kind 💎, and my heart smiles thinking of you 💓.
-                        Stay amazing 🌟, stay magical ✨… and never forget how special you are 🥰💫
-
-                        Guroooor 😄💓
+                        Happy Birthday, PIU 🎂💖✨
+                        I still remember the first time we talked at the freshers party. It was such a fun day and we all enjoyed a lot 😊
+                        At that time, I never knew that you would become such a good friend of mine. You are really a nice person and very kind 💛
+                        Just one small thing, don’t stay sad too much. You look really good when you smile 😊 You look better when you are happy, not when you are sad.
+                        Today is your birthday, so enjoy a lot 🥳 Have fun, do masti, spend good time with your family and your partner 💫 Take care of yourself always.
+                        If I ever hurt you by mistake, I am really sorry for that 🙏
+                        Once again, happy birthday 🎈🎉
+                        Stay happy and keep smiling always 😊✨
                     </p>
                 </motion.div>
             </div>
