@@ -18,7 +18,7 @@ export default function IntroScreen({ onNext }) {
                         style={{
                             filter: "drop-shadow(0 0 20px rgba(255,105,180,0.4))",
                         }}>
-                        A Babylicious was born today,
+                        A Piccciii was born today,
                     </h1>
 
                                         <h1 className="text-pretty text-4xl md:text-6xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-violet-400 via-fuchsia-400 to-pink-400 drop-shadow leading-tight"
